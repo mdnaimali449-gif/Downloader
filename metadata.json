@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix NAIM VIDEO DOWNLOADER",
+  "description": "Fast futuristic video downloader for Facebook, YouTube, TikTok and Instagram with romantic link generator and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
